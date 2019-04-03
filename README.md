@@ -1,2 +1,16 @@
-# question-paper-generator
-This is one of my college project which i will try to complete using React Native 
+# SEN
+Automatic Question Paper generator platform
+
+## Installation
+Install [Node](https://nodejs.org/en/)
+
+```bash
+npm install
+npm i -g nodemon
+```
+
+## Running the server
+
+```bash
+nodemon
+```
